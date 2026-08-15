@@ -169,7 +169,7 @@ This implementation builds on the Wan video model ecosystem and follows the inst
 
 ## 📮 Contact
 
-For questions, please contact Junhao Zhuang at [zhuangjh23@mails.tsinghua.edu.cn](mailto:zhuangjh23@mails.tsinghua.edu.cn).
+For questions, please contact Junhao Zhuang at [zhuangjh23@tsinghua.org.cn](mailto:zhuangjh23@tsinghua.org.cn).
 
 ## 📜 License
 
