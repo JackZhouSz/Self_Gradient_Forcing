@@ -178,13 +178,10 @@ This project is released under the Apache-2.0 license.
 ### 📜 Citation
 
 ```bibtex
-@misc{zhuang2026selfgradientforcingnative,
-      title={Self Gradient Forcing: Native Long Video Extrapolation}, 
-      author={Junhao Zhuang and Shiyi Zhang and Yuxuan Bian and Yaowei Li and Yawen Luo and Yijun Liu and Weiyang Jin and Songchun Zhang and Xianglong He and Xuying Zhang and Haoran Li and Haoyang Huang and Zeyue Xue and Nan Duan},
-      year={2026},
-      eprint={2607.20368},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2607.20368}, 
+@article{zhuang2026self,
+  title={Self Gradient Forcing: Native Long Video Extrapolation},
+  author={Zhuang, Junhao and Zhang, Shiyi and Bian, Yuxuan and Li, Yaowei and Luo, Yawen and Liu, Yijun and Jin, Weiyang and Zhang, Songchun and He, Xianglong and Zhang, Xuying and others},
+  journal={arXiv preprint arXiv:2607.20368},
+  year={2026}
 }
 ```
